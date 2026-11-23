@@ -137,3 +137,33 @@ This project provided practical experience with:
 
 # Multi-Stage Docker Website
 
+## Project Screenshots
+
+The following screenshots demonstrate the successful implementation and verification of this project.
+
+### Docker Image Build
+![Docker Build](screenshots/01-docker-build.png)
+
+### Docker Compose Deployment
+![Docker Compose Status](screenshots/02-compose-status.png)
+
+### Website Response
+![Website Response](screenshots/03-website-response.png)
+
+### Non-Root Container Verification
+![Non-Root Verification](screenshots/04-nonroot-verification.png)
+## Project Screenshots
+
+The following screenshots demonstrate the successful implementation and verification of this project.
+
+### Docker Image Build
+![Docker Build](screenshots/01-docker-build.png)
+
+### Docker Compose Deployment
+![Docker Compose Status](screenshots/02-compose-status.png)
+
+### Website Response
+![Website Response](screenshots/03-website-response.png)
+
+### Non-Root Container Verification
+![Non-Root Verification](screenshots/04-nonroot-verification.png)
