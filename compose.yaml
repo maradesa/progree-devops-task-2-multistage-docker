@@ -1,0 +1,8 @@
+
+
+services:
+  website:
+    image: multistage-website:nonroot
+    container_name: compose-website
+    ports:
+      - "8085:8080"
