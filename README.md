@@ -134,6 +134,6 @@ This project provided practical experience with:
 - Non-root container execution.
 - Custom Nginx configuration.
 - Docker port mapping and Compose deployment.
-1~
+
 # Multi-Stage Docker Website
 
