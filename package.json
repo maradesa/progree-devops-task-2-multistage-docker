@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "scripts": {
     "build": "node build.js",
-    "test": "node test.js"
+    "test": "node test.js" ,
+ "lint": "eslint build.js test.js"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.5"
   }
 }
